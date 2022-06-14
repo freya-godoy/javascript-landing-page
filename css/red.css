@@ -1,0 +1,16 @@
+body {
+    background: url("../img/rojo.jpg");
+    background-attachment: fixed;
+}
+
+#logo {
+    background-color: #a52a2a;
+}
+
+#menu ul li:hover {
+    background-color: #a52a2a;
+}
+
+.button-more {
+    background-color: #a52a2a;
+}

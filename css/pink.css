@@ -1,0 +1,16 @@
+body {
+    background: url("../img/rosas.jpg");
+    background-attachment: fixed;
+}
+
+#logo {
+    background-color: #F08080;
+}
+
+#menu ul li:hover {
+    background-color: #F08080;
+}
+
+.button-more {
+    background-color: #F08080;
+}
